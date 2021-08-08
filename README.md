@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yu1zzZ
+- 👋 Hi, I’m @Gluvyi
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning in Dalian Jiaotong University
 - 💞️ I’m not looking to collaborate
